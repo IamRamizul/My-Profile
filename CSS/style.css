@@ -1,0 +1,157 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+}
+p{
+  font-weight: 500;
+}
+.skills h2,h3{
+  color: #8758FF;
+  margin-top: 0;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  margin-left : 2rem;
+  
+}
+a:hover{
+  color:#25316D;
+  
+}
+.skills{
+  background-color: #D2DAFF;
+  margin-top : 0;
+  margin-bottom: 0;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+}
+
+hr{
+  display: inline-block;
+  border-width : 6px 0 0 0;
+  border-style: dotted;
+  border-color: grey;
+  width: 5%;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin: 0 auto;
+  
+}
+
+body{
+  text-align : center;
+  margin: 0;
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #EEF1FF;
+}
+
+.top-container{
+  background-color:  #B1B2FF;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 50px;
+  position: relative;
+}
+
+#mountain{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+h1{
+  margin-top: 0;
+  color: white;
+  font-weight: 700;
+}
+h2{
+  color:#B1B2FF;
+}
+.bottom-cloud{
+  position: absolute;
+  word-spacing: 2rem;
+  
+}
+.top-cloud{
+  margin-left: 30rem;
+}
+.profile{
+  background-color: #AAC4FF;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 1rem 1rem;
+}
+.contact-me{
+  background-color:#D2DAFF;
+  padding-bottom: 1.25rem;
+  
+}
+.contact-me h2{
+  margin-top: 0;
+  color: grey;
+}
+.profile h2{
+  color : black;
+}
+hr{
+  margin: 0;
+}
+#last-para{
+  margin-bottom: 0;
+}
+
+.bottom-container{
+  background-color: #B1B2FF;
+  padding: 3rem 0 1rem 0;
+  
+}
+
+
+.buttonClass {
+  font-size:1.2rem;
+  width:250px;
+  height:90px;
+  border-width:1px;
+  color: #fff;
+  border-top-left-radius:28px;
+  border-top-right-radius:28px;
+  border-bottom-left-radius:28px;
+  border-bottom-right-radius:28px;
+  background-color: green;
+  padding: 0.5rem 1rem 0.5rem;
+  margin-bottom: 1rem;
+}
+.buttonClass:hover{
+  color: #fff;
+  background-color: #8758FF;
+}
+
+.skill-row{
+  padding-top: 2rem;
+  width: 50%;
+  margin: 1rem auto;
+}
+
+.skill-row p,h3{
+  margin-bottom: 0;
+  text-align: left;
+  line-height: 2;
+  
+}
+
+#teacher, #computer{
+  float: right;
+  margin-left: 2rem;
+}
+
+#chemist{
+  float: left  ;
+  margin-right: 1rem;
+}
+.skill-icon{
+  margin-top: 2rem;
+}
+
+
